@@ -47,6 +47,9 @@
 		<string>Daniel Weiand</string>
 		<key>openTypeNameManufacturerURL</key>
 		<string>ddaanniiieeelll.com</string>
+		<key>openTypeNameRecords</key>
+		<array>
+		</array>
 		<key>openTypeOS2TypoAscender</key>
 		<integer>900</integer>
 		<key>openTypeOS2TypoDescender</key>
@@ -75,6 +78,10 @@
 		<key>postscriptStemSnapV</key>
 		<array>
 		</array>
+		<key>styleMapFamilyName</key>
+		<string>Mirko</string>
+		<key>styleMapStyleName</key>
+		<string>regular</string>
 		<key>styleName</key>
 		<string>Regular</string>
 		<key>unitsPerEm</key>

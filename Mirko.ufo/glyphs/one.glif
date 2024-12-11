@@ -14,4 +14,10 @@
 		<component base="_pixel" xOffset="150"/>
 		<component base="_pixel" xOffset="50" yOffset="300"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.4,0.8001,0.9989,0.4</string>
+		</dict>
+	</lib>
 </glyph>
