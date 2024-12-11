@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecmb" format="2">
+	<unicode hex="0300"/>
+	<advance width="200"/>
+	<outline>
+		<component base="_pixel" xOffset="50" yOffset="400"/>
+		<component base="_pixel" xOffset="100" yOffset="350"/>
+	</outline>
+	<anchor name="_top" x="100" y="300"/>
+</glyph>

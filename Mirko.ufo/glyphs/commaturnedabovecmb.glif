@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecmb" format="2">
+	<unicode hex="0312"/>
+	<advance width="200"/>
+	<outline>
+		<component base="_pixel" xOffset="50" yOffset="350"/>
+		<component base="_pixel" xOffset="50" yOffset="400"/>
+		<component base="_pixel" xOffset="100" yOffset="450"/>
+	</outline>
+	<anchor name="_top" x="100" y="300"/>
+</glyph>

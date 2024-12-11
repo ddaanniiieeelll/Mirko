@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscmb" format="2">
+	<unicode hex="0308"/>
+	<advance width="250"/>
+	<outline>
+		<component base="_pixel" xOffset="50" yOffset="350"/>
+		<component base="_pixel" xOffset="150" yOffset="350"/>
+	</outline>
+	<anchor name="_top" x="100" y="300"/>
+</glyph>

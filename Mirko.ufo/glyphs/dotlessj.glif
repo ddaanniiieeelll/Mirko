@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="2">
+	<unicode hex="0237"/>
+	<advance width="200"/>
+	<outline>
+		<component base="_pixel" xOffset="50" yOffset="250"/>
+		<component base="_pixel" xOffset="100" yOffset="250"/>
+		<component base="_pixel" xOffset="100" yOffset="200"/>
+		<component base="_pixel" xOffset="100" yOffset="150"/>
+		<component base="_pixel" xOffset="100" yOffset="100"/>
+		<component base="_pixel" xOffset="100" yOffset="50"/>
+		<component base="_pixel" xOffset="100"/>
+		<component base="_pixel" xOffset="100" yOffset="-50"/>
+		<component base="_pixel" xOffset="50" yOffset="-100"/>
+		<component base="_pixel" yOffset="-100"/>
+	</outline>
+	<anchor name="top" x="50" y="300"/>
+	<anchor name="bottom" x="50" y="0"/>
+</glyph>

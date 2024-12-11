@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.superior" format="2">
+	<unicode hex="2076"/>
+	<advance width="350"/>
+	<outline>
+		<component base="_pixel" xOffset="250" yOffset="200"/>
+		<component base="_pixel" xOffset="250" yOffset="250"/>
+		<component base="_pixel" xOffset="200" yOffset="150"/>
+		<component base="_pixel" xOffset="150" yOffset="150"/>
+		<component base="_pixel" xOffset="100" yOffset="150"/>
+		<component base="_pixel" xOffset="50" yOffset="200"/>
+		<component base="_pixel" xOffset="50" yOffset="250"/>
+		<component base="_pixel" xOffset="50" yOffset="300"/>
+		<component base="_pixel" xOffset="50" yOffset="350"/>
+		<component base="_pixel" xOffset="100" yOffset="400"/>
+		<component base="_pixel" xOffset="150" yOffset="400"/>
+		<component base="_pixel" xOffset="200" yOffset="400"/>
+		<component base="_pixel" xOffset="200" yOffset="300"/>
+		<component base="_pixel" xOffset="150" yOffset="300"/>
+		<component base="_pixel" xOffset="100" yOffset="300"/>
+	</outline>
+</glyph>

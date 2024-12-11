@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+	<unicode hex="00D0"/>
+	<advance width="400"/>
+	<outline>
+		<component base="_pixel" xOffset="100" yOffset="350"/>
+		<component base="_pixel" xOffset="100" yOffset="300"/>
+		<component base="_pixel" xOffset="100" yOffset="250"/>
+		<component base="_pixel" xOffset="100" yOffset="200"/>
+		<component base="_pixel" xOffset="100" yOffset="150"/>
+		<component base="_pixel" xOffset="100" yOffset="100"/>
+		<component base="_pixel" xOffset="100" yOffset="50"/>
+		<component base="_pixel" xOffset="100"/>
+		<component base="_pixel" xOffset="50" yOffset="200"/>
+		<component base="_pixel" xOffset="150" yOffset="200"/>
+		<component base="_pixel" xOffset="150"/>
+		<component base="_pixel" xOffset="200"/>
+		<component base="_pixel" xOffset="250"/>
+		<component base="_pixel" xOffset="300" yOffset="50"/>
+		<component base="_pixel" xOffset="300" yOffset="100"/>
+		<component base="_pixel" xOffset="300" yOffset="150"/>
+		<component base="_pixel" xOffset="300" yOffset="200"/>
+		<component base="_pixel" xOffset="300" yOffset="250"/>
+		<component base="_pixel" xOffset="300" yOffset="300"/>
+		<component base="_pixel" xOffset="250" yOffset="350"/>
+		<component base="_pixel" xOffset="200" yOffset="350"/>
+		<component base="_pixel" xOffset="150" yOffset="350"/>
+	</outline>
+</glyph>

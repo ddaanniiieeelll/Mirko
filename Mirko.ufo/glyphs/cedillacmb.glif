@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacmb" format="2">
+	<unicode hex="0327"/>
+	<advance width="200"/>
+	<outline>
+		<component base="_pixel" xOffset="50" yOffset="-50"/>
+		<component base="_pixel" xOffset="100" yOffset="-100"/>
+		<component base="_pixel" xOffset="50" yOffset="-150"/>
+	</outline>
+	<anchor name="_bottom" x="100" y="0"/>
+</glyph>

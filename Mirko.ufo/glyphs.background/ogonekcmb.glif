@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcmb" format="2">
+	<unicode hex="0328"/>
+	<advance width="200"/>
+	<outline>
+		<contour>
+			<point x="100" y="-50" type="line"/>
+			<point x="150" y="-50" type="line"/>
+			<point x="150" y="0" type="line"/>
+			<point x="100" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="50" y="-100" type="line"/>
+			<point x="100" y="-100" type="line"/>
+			<point x="100" y="-50" type="line"/>
+			<point x="50" y="-50" type="line"/>
+		</contour>
+		<contour>
+			<point x="100" y="-150" type="line"/>
+			<point x="150" y="-150" type="line"/>
+			<point x="150" y="-100" type="line"/>
+			<point x="100" y="-100" type="line"/>
+		</contour>
+	</outline>
+</glyph>

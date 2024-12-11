@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+	<unicode hex="00A1"/>
+	<advance width="150"/>
+	<outline>
+		<component base="_pixel" xOffset="50" yOffset="250"/>
+		<component base="_pixel" xOffset="50" yOffset="150"/>
+		<component base="_pixel" xOffset="50" yOffset="100"/>
+		<component base="_pixel" xOffset="50" yOffset="50"/>
+		<component base="_pixel" xOffset="50"/>
+		<component base="_pixel" xOffset="50" yOffset="-50"/>
+		<component base="_pixel" xOffset="50" yOffset="-100"/>
+	</outline>
+</glyph>

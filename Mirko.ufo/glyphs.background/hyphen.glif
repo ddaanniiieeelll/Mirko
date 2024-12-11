@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="2">
+	<unicode hex="002D"/>
+	<advance width="250"/>
+	<outline>
+		<contour>
+			<point x="50" y="150" type="line"/>
+			<point x="100" y="150" type="line"/>
+			<point x="100" y="200" type="line"/>
+			<point x="50" y="200" type="line"/>
+		</contour>
+		<contour>
+			<point x="100" y="150" type="line"/>
+			<point x="150" y="150" type="line"/>
+			<point x="150" y="200" type="line"/>
+			<point x="100" y="200" type="line"/>
+		</contour>
+		<contour>
+			<point x="150" y="150" type="line"/>
+			<point x="200" y="150" type="line"/>
+			<point x="200" y="200" type="line"/>
+			<point x="150" y="200" type="line"/>
+		</contour>
+	</outline>
+</glyph>

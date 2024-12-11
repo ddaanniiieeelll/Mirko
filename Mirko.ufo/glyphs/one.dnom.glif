@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.dnom" format="2">
+	<advance width="250"/>
+	<outline>
+		<component base="_pixel" xOffset="50" yOffset="-150"/>
+		<component base="_pixel" xOffset="100" yOffset="-150"/>
+		<component base="_pixel" xOffset="150" yOffset="-150"/>
+		<component base="_pixel" xOffset="100" yOffset="-100"/>
+		<component base="_pixel" xOffset="100" yOffset="-50"/>
+		<component base="_pixel" xOffset="100"/>
+		<component base="_pixel" xOffset="100" yOffset="50"/>
+		<component base="_pixel" xOffset="50"/>
+	</outline>
+</glyph>

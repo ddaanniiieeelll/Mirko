@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.inferior" format="2">
+	<unicode hex="2082"/>
+	<advance width="300"/>
+	<outline>
+		<component base="_pixel" xOffset="50" yOffset="-100"/>
+		<component base="_pixel" xOffset="50" yOffset="-50"/>
+		<component base="_pixel" xOffset="100" yOffset="-100"/>
+		<component base="_pixel" xOffset="150" yOffset="-100"/>
+		<component base="_pixel" xOffset="200" yOffset="-100"/>
+		<component base="_pixel" xOffset="100"/>
+		<component base="_pixel" xOffset="150" yOffset="50"/>
+		<component base="_pixel" xOffset="200" yOffset="100"/>
+		<component base="_pixel" xOffset="150" yOffset="150"/>
+		<component base="_pixel" xOffset="100" yOffset="150"/>
+		<component base="_pixel" xOffset="50" yOffset="150"/>
+	</outline>
+</glyph>

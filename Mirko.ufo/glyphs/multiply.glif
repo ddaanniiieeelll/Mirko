@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="2">
+	<unicode hex="00D7"/>
+	<advance width="250"/>
+	<outline>
+		<component base="_pixel" xOffset="50" yOffset="200"/>
+		<component base="_pixel" xOffset="100" yOffset="150"/>
+		<component base="_pixel" xOffset="150" yOffset="100"/>
+		<component base="_pixel" xOffset="150" yOffset="200"/>
+		<component base="_pixel" xOffset="50" yOffset="100"/>
+	</outline>
+</glyph>

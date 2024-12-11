@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threesuperior" format="2">
+	<unicode hex="00B3"/>
+	<advance width="300"/>
+	<outline>
+		<component base="_pixel" xOffset="50" yOffset="400"/>
+		<component base="_pixel" xOffset="100" yOffset="400"/>
+		<component base="_pixel" xOffset="150" yOffset="400"/>
+		<component base="_pixel" xOffset="200" yOffset="350"/>
+		<component base="_pixel" xOffset="150" yOffset="300"/>
+		<component base="_pixel" xOffset="200" yOffset="250"/>
+		<component base="_pixel" xOffset="200" yOffset="200"/>
+		<component base="_pixel" xOffset="150" yOffset="150"/>
+		<component base="_pixel" xOffset="100" yOffset="150"/>
+		<component base="_pixel" xOffset="50" yOffset="150"/>
+	</outline>
+</glyph>
